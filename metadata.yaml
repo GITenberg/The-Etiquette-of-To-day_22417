@@ -1,0 +1,29 @@
+_repo: The-Etiquette-of-To-day_22417
+_version: 0.1.0
+alternative_title: Etiquette of Today
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ordway, Edith B. (Edith Bertha)
+    alias: Ordway, Edith Bertha
+    birthdate: 1877
+    deathdate: 1944
+    gutenberg_agent_id: '25323'
+    url: http://www.gutenberg.org/2009/agents/25323
+description: ''
+gutenberg_issued: '2007-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22417'
+  lccn: '20019594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcc 'BJ'
+title: The Etiquette of To-day
+url: http://www.gutenberg.org/ebooks/22417
