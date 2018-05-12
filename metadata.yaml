@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '25323'
     url: http://www.gutenberg.org/2009/agents/25323
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22417#The-Etiquette-of-To-day
 gutenberg_issued: '2007-08-27'
 gutenberg_type: Text
 identifiers:
